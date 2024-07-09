@@ -9,7 +9,7 @@ This project analyzes the employee turnover at Salifort Motors, an imaginary com
 
 Certificate
 
-You can view the certificate for the completed program here.
+You can view the certificate for the completed program here: https://coursera.org/share/703bf292ebc8f7389a2aee192b635606.
 
 Objectives
 
