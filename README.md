@@ -30,6 +30,21 @@ The dataset consists of 15,000 rows and 10 columns, with each row representing a
 
 The initial source of the dataset is available on Kaggle: HR Analytics and Job Prediction.
 
+# Key takeaways. 
+
+	1. Project Load and Work Hours: Our analysis identified the number of projects and average working hours as the most significant factors influencing employee resignations.
+ ![Unknown](https://github.com/SergeiShadrin/coursera_salifort_capstone_project/assets/9164779/8ff374fc-431a-45e9-ab36-8c5b933d88f0)
+
+ Interestingly, all employees who participated in more than six projects resigned. The following graph illustrates this trend  
+ 
+ ![Unknown-2](https://github.com/SergeiShadrin/coursera_salifort_capstone_project/assets/9164779/5cc15f65-2d8b-45f4-9713-95040f3cbbda)
+ 
+ The the ternover rate increases drustically if the employee works on more then 4 projects.  
+
+ 	2. Potential Overwork Issue: The data suggests a potential issue with overwork within the analyzed company. The red line in the following graph represents the legal working time limit in France
+
+We can see that many employees appear to be exceeding this limit, potentially contributing to resignations.
+
 Recommendations Based on Analysis
 
 The analysis of the models and the feature importance indicates that employees are overworked. Here are some recommendations to present to the stakeholders:
